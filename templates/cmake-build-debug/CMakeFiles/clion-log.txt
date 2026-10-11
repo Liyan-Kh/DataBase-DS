@@ -1,0 +1,13 @@
+"C:\Program Files\JetBrains\CLion 2022.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2/bin/ninja/win/ninja.exe" -G Ninja -S D:\DB_project\project01-unidb-Liyan-Kh\templates\cpp -B D:\DB_project\project01-unidb-Liyan-Kh\templates\cpp\cmake-build-debug
+-- Configuring done
+CMake Error at CMakeLists.txt:7 (add_executable):
+  Cannot find source file:
+
+    templates/cpp/main.cpp
+
+
+CMake Error at CMakeLists.txt:7 (add_executable):
+  No SOURCES given to target: UniDB
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

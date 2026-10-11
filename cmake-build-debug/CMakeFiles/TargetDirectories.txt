@@ -1,0 +1,3 @@
+D:/DB_project/project01-unidb-Liyan-Kh/cmake-build-debug/CMakeFiles/UniDB.dir
+D:/DB_project/project01-unidb-Liyan-Kh/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/DB_project/project01-unidb-Liyan-Kh/cmake-build-debug/CMakeFiles/rebuild_cache.dir
